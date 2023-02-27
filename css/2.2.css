@@ -1,0 +1,16 @@
+header{
+    margin: 200px;
+}
+a{
+    margin: 40px; color: blue;
+}
+a:hover{
+    color: red;
+}
+section{
+    margin: 200px;
+}
+footer{
+    text-align: center;
+
+}

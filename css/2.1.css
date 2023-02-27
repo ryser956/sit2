@@ -1,0 +1,25 @@
+
+body{
+    background-color: coral;
+}
+
+header{
+    background-color: aqua;
+    text-align: center;
+}
+section{
+    background-color: chartreuse;
+    text-align: center;
+}
+footer{
+    background-color: gold;
+    text-align: right;
+}
+a{
+    color: cornflowerblue;
+    margin: 30px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
